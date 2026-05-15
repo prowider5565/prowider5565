@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prowider5565" alt="prowider5565" /></a> </p>
 
-- 🔭 I’m currently working on [Sales POS system for local shopping malls](https://gitlab.com/prowider.dev/shopping.pos)
+- 🔭 I’m currently working on [Zenjir - Uzbek mobile first dating application](https://github.com/prowider5565/Zenjir)
 
-- 🌱 I’m currently learning **Nest.js, Node.js**
+- 🌱 I’m currently learning **Microservices, kubernetes, LGTM, AI-Integration**
 
-- 💬 Ask me about **Python, Django REST, FastAPI, PostgreSQL**
+- 💬 Ask me about **Python, Node.js, Distributed Systems, Docker**
 
 - 📫 How to reach me **prowider.dev@gmail.com**
 
