@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdusamad</h1>
-<h3 align="center">An enthusiastic backend developer from Uzbekistan 🇺🇿</h3>
+<h1 align="center">Welcome to Mateo Versace's professional world!</h1>
+<h3 align="center">20 year old SWE, Teacher, Student with high willingness to grow his technical skills horizontally</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prowider5565&label=Profile%20views&color=0e75b6&style=flat" alt="prowider5565" /> </p>
 
